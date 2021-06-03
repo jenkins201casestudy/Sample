@@ -1,4 +1,4 @@
-package com.jenkinscasestudy;
+package com.jenkinscasestudy.app;
 
 /**
  * Hello world!

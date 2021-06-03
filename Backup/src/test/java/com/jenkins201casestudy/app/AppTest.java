@@ -1,4 +1,4 @@
-package com.jenkins201casestudy;
+package com.jenkins201casestudy.app;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
